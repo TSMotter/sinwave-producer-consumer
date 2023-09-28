@@ -1,0 +1,2 @@
+add_subdirectory(easywsclient)
+add_subdirectory(json)
