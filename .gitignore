@@ -2,6 +2,8 @@ build
 output*
 graph*
 
+*.pyc
+
 # Prerequisites
 *.d
 

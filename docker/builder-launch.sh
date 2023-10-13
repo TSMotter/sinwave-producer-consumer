@@ -24,6 +24,7 @@
 
 docker run --rm \
     -it \
+    -p 8765:8765 \
     --network="host" \
     --platform linux/amd64 \
     --workdir /builder/mnt \
